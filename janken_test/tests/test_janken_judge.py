@@ -1,5 +1,5 @@
 import unittest
-from parameterized import parameterized
+from unittest import parameterized
 from source.janken_judge import judge
 
 class TestJankenJudge(unittest.TestCase):
